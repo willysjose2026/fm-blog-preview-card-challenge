@@ -12,10 +12,16 @@ For this solution I used HTML & CSS with a little flexbox and the gap property.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Code: [https://github.com/willysjose2026/fm-blog-preview-card-challenge](https://github.com/willysjose2026/fm-blog-preview-card-challenge)
+- Preview: [https://willysjose2026.github.io/fm-blog-preview-card-challenge/](https://willysjose2026.github.io/fm-blog-preview-card-challenge/)
 
-## My process
+## My Process
+
+I first took a look into all the designs and analized how the layout was supposed to work. This was an easy one since it was pretty much the same for mobile as for desktop.
+
+I then wrote the structure for the HTML for it, and then I started working on the CSS.
+
+For the CSS, after setting the reset I took care of the colors and typography first since is the easiest part, and then I played a little bit with the layout and some sizes and that's about it. This was a little warmup challenge xdd.
 
 ### Built with
 
